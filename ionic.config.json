@@ -1,0 +1,7 @@
+{
+  "name": "photo-gallery-otel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
