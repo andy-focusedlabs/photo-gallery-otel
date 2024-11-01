@@ -6,6 +6,8 @@ Based on the [Ionic react starter](https://ionicframework.com/docs/react/your-fi
 
 ## Running It
 
+`npm install` all the things. You'll need `ionic` too. See the Ionic docs :point_up: for that.
+
 Get a Honeycomb ingest key and edit `main.tsx`:
 
 ```tsx
